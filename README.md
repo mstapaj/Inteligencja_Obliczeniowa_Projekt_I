@@ -22,7 +22,7 @@ Project completed on 21 April 2022
 
 #### Example:
 
-Clone down this repository. 
+Clone down this repository.
 
 Installation:
 
@@ -31,3 +31,14 @@ Installation:
 To Run Project:
 
 `python main.py`
+
+## Functionalities
+
+- The application allows you to solve the nonogram using genetic algorithms or swarm intelligence.
+- You can add your own nonograms to solve them.
+- You can easily set different parameters for different algorithms (genetic algorithms or swarm intelligence).
+- You can measure how good a solution is. You can display:
+  - the average generation (when the correct solution was reached)
+  - the average time
+  - the average value returned by the fitenss function
+  - the percentage of correct solutions.
